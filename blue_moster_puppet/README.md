@@ -1,7 +1,7 @@
 # Blue moster puppet amigurumi pattern
 
 This is a puppet amigurumi pattern.
-![Blue moster puppet](https://github.com/gemgon/*/raw/master/MosterPuppet.png "Blue moster puppet")
+![Blue moster puppet](https://github.com/gemgon/amigurumi/raw/master/blue_moster_puppet/MosterPuppet.png "Blue moster puppet")
 It's composed by: head, mouth, jaw, body, 2 eyes, 2 eyeslid.
 
 ## Materials:
